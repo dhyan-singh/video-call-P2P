@@ -1,0 +1,17 @@
+
+/* FIXME: below css not working so adding required
+css in <head> */
+div#my_video,
+div#remote_video {
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+/* Can play with below div styling 
+these are just to make video [div]s side by side*/
+div#parent_video {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
