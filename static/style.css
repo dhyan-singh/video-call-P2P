@@ -8,6 +8,10 @@ div#remote_video {
     border: 1px solid black;
 }
 
+video {
+    height:300px;
+}
+
 /* Can play with below div styling 
 these are just to make video [div]s side by side*/
 div#parent_video {
